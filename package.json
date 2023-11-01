@@ -1,0 +1,9 @@
+{
+  "name": "WoWPortal",
+  "version": "1.0.0",
+  "description": "Basic MS to handle wow api",
+  "main": "index.js",
+  "repository": "git@github.com:SkekyTv/WowPortal.git",
+  "author": "Skeky",
+  "license": "MIT"
+}
